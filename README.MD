@@ -5,7 +5,7 @@
 
 # Mundos E - javaScrip - Project
 
-## Modulo de FrontEnd con Javascript 🧑‍💻👩‍💻
+## Modulo de FrontEnd con Javascript 💻
 
 <br/>
 
