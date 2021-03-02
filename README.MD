@@ -9,7 +9,7 @@
 
 <br/>
 
-### Ejercicios del curso 📚
+### Ejercicios del curso 
 
 
 - Modulo 16 ->
